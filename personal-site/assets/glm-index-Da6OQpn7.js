@@ -1,0 +1,1 @@
+import{j as r}from"./glm-react-B-zrKVhV.js";import{N as t,O as o}from"./glm-react-router-DVZCq2ug.js";import"./glm-@chevrotain-CXUWDbkB.js";import"./glm-@remix-run-Du9VVFEx.js";const e=()=>localStorage.getItem("token")||!0?r.jsx(o,{}):r.jsx(t,{to:"login"});function m(){return r.jsx(r.Fragment,{children:r.jsx(e,{})})}export{m as default};
